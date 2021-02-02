@@ -1,0 +1,89 @@
+{
+  "main": {
+    "name": "Agon Misini",
+    "occupation": "Student",
+    "description": "I love building apps with React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Agon. I am a junior Front-end Developer. My dream is to get a job. I have been coding about 3 years and from then I enjoy every thing that I do in coding.",
+    "contactmessage": "Get in touch with me!",
+    "email": "misiniagon3@gmail.com",
+    "phone": "+383 44893686",
+    "address": {
+      "street": "33 Ohri Street",
+      "city": "Shtime",
+      "state": "Kosova",
+      "zip": "72000"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCSDgPA3-YR-0GxzCD4RwmWw",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/agonmisini19/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jobless_coder21/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/AgonMisini21",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Bussiness and Technology - UBT",
+        "degree": "Bachelor's Degree, Computer Science and Engineering",
+        "graduated": "not yet",
+        "description": "I have not graduated yet."
+      }
+    ],
+    "work": [
+      {
+        
+        "description": "I am still have not find a job."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "VueJS",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Java",
+        "level": "50%"
+      }
+    ]
+  }
+}

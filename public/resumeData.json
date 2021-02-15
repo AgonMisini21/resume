@@ -36,6 +36,11 @@
         "name": "github",
         "url": "https://github.com/AgonMisini21",
         "className": "fa fa-github"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/AgonMisini4",
+        "className": "fa fa-twitter"
       }
     ]
   },
@@ -52,25 +57,25 @@
     "work": [
       {
         
-        "description": "I am still have not find a job."
+        "description": "I still have not find a job."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "90%"
       },
       {
         "name": "VueJS",
-        "level": "75%"
+        "level": "25%"
       },
       {
         "name": "Python",
-        "level": "65%"
+        "level": "50%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "90%"
       },
       {
         "name": "JavaScript",
